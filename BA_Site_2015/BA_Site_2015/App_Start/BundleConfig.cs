@@ -22,6 +22,7 @@ namespace BA_Site_2015
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/lessStyles.css",
                       "~/Content/site.css"));
         }
     }

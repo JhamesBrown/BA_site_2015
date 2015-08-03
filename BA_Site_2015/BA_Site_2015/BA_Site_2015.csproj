@@ -214,6 +214,19 @@
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\100Seconds_thumb.png" />
+    <Content Include="Content\images\BA_identityGraphics\Bad_artifacts_200_trans.png" />
+    <Content Include="Content\images\BA_identityGraphics\Bad_artifacts_text_400_trans.png" />
+    <Content Include="Content\images\connectedWorlds_thumb.png" />
+    <Content Include="Content\images\microCam_BYOB_thumb.JPG" />
+    <Content Include="Content\images\r_drawer_thumb.JPG" />
+    <Content Include="Content\images\youAreGreen_thumb.png" />
+    <Content Include="Content\lessStyles.css">
+      <DependentUpon>lessStyles.less</DependentUpon>
+    </Content>
+    <Content Include="Content\lessStyles.min.css">
+      <DependentUpon>lessStyles.css</DependentUpon>
+    </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -238,6 +251,12 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="Content\images\BA_identityGraphics\Thumbs.db" />
+    <Content Include="Content\images\Thumbs.db" />
+    <Content Include="Content\lessStyles.less" />
+    <Content Include="Content\lessStyles.css.map">
+      <DependentUpon>lessStyles.css</DependentUpon>
+    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
