@@ -10,7 +10,7 @@ namespace BA_Site_2015.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Bad Artifacts";
 
             return View();
         }

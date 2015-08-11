@@ -5573,7 +5573,7 @@ a.list-group-item:focus {
 }
 
 .close {
-  float: right;
+  float: none;
   font-size: 21px;
   font-weight: bold;
   line-height: 1;

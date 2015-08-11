@@ -211,14 +211,106 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="android-chrome-144x144.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="android-chrome-192x192.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="android-chrome-36x36.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="android-chrome-48x48.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="android-chrome-72x72.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="android-chrome-96x96.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-114x114.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-120x120.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-144x144.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-152x152.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-180x180.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-57x57.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-60x60.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-72x72.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-76x76.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon-precomposed.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="apple-touch-icon.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Builds\ColourPuck\100Seconds.html" />
+    <Content Include="Content\Builds\ColourPuck\Release\ColourPuck.js" />
+    <Content Include="Content\Builds\ColourPuck\Release\fileloader.js" />
+    <Content Include="Content\Builds\ColourPuck\Release\UnityConfig.js" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\default-cover.jpg" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\favicon.ico" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\fullbar.png" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\fullscreen.png" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\loadingbar.png" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\logo.png" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\style.css" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\UnityProgress.js" />
+    <Content Include="Content\Builds\LD30\Connected_Worlds.html" />
+    <Content Include="Content\Builds\LD30\Release\fileloader.js" />
+    <Content Include="Content\Builds\LD30\Release\LD30.js" />
+    <Content Include="Content\Builds\LD30\Release\UnityConfig.js" />
+    <Content Include="Content\Builds\LD30\Release\WebGL.js" />
+    <Content Include="Content\Builds\LD30\TemplateData\default-cover.jpg" />
+    <Content Include="Content\Builds\LD30\TemplateData\favicon.ico" />
+    <Content Include="Content\Builds\LD30\TemplateData\fullbar.png" />
+    <Content Include="Content\Builds\LD30\TemplateData\fullscreen.png" />
+    <Content Include="Content\Builds\LD30\TemplateData\loadingbar.png" />
+    <Content Include="Content\Builds\LD30\TemplateData\logo.png" />
+    <Content Include="Content\Builds\LD30\TemplateData\progresslogo.png" />
+    <Content Include="Content\Builds\LD30\TemplateData\style.css" />
+    <Content Include="Content\Builds\LD30\TemplateData\UnityProgress.js" />
+    <Content Include="Content\Builds\LD31\LD31.html" />
+    <Content Include="Content\Builds\LD31\Release\fileloader.js" />
+    <Content Include="Content\Builds\LD31\Release\LD31.js" />
+    <Content Include="Content\Builds\LD31\Release\UnityConfig.js" />
+    <Content Include="Content\Builds\LD31\TemplateData\default-cover.jpg" />
+    <Content Include="Content\Builds\LD31\TemplateData\favicon.ico" />
+    <Content Include="Content\Builds\LD31\TemplateData\fullbar.png" />
+    <Content Include="Content\Builds\LD31\TemplateData\fullscreen.png" />
+    <Content Include="Content\Builds\LD31\TemplateData\loadingbar.png" />
+    <Content Include="Content\Builds\LD31\TemplateData\logo.png" />
+    <Content Include="Content\Builds\LD31\TemplateData\progresslogo.png" />
+    <Content Include="Content\Builds\LD31\TemplateData\style.css" />
+    <Content Include="Content\Builds\LD31\TemplateData\UnityProgress.js" />
     <Content Include="Content\images\100Seconds_thumb.png" />
     <Content Include="Content\images\BA_identityGraphics\Bad_artifacts_200_trans.png" />
     <Content Include="Content\images\BA_identityGraphics\Bad_artifacts_text_400_trans.png" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\progresslogo.png" />
     <Content Include="Content\images\connectedWorlds_thumb.png" />
     <Content Include="Content\images\microCam_BYOB_thumb.JPG" />
+    <Content Include="Content\images\placeholder.png" />
     <Content Include="Content\images\r_drawer_thumb.JPG" />
     <Content Include="Content\images\youAreGreen_thumb.png" />
     <Content Include="Content\lessStyles.css">
@@ -227,9 +319,33 @@
     <Content Include="Content\lessStyles.min.css">
       <DependentUpon>lessStyles.css</DependentUpon>
     </Content>
+    <Content Include="favicon-16x16.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="favicon-32x32.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="favicon-96x96.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="mstile-144x144.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="mstile-150x150.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="mstile-310x150.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="mstile-310x310.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
+    <Content Include="mstile-70x70.png">
+      <DependentUpon>favicon.ico</DependentUpon>
+    </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -252,11 +368,43 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="Content\images\BA_identityGraphics\Thumbs.db" />
-    <Content Include="Content\images\Thumbs.db" />
     <Content Include="Content\lessStyles.less" />
     <Content Include="Content\lessStyles.css.map">
       <DependentUpon>lessStyles.css</DependentUpon>
     </Content>
+    <Content Include="Content\Builds\ColourPuck\.htaccess" />
+    <Content Include="Content\Builds\ColourPuck\Compressed\ColourPuck.datagz" />
+    <Content Include="Content\Builds\ColourPuck\Compressed\ColourPuck.html.memgz" />
+    <Content Include="Content\Builds\ColourPuck\Compressed\ColourPuck.jsgz" />
+    <Content Include="Content\Builds\ColourPuck\Compressed\fileloader.jsgz" />
+    <Content Include="Content\Builds\ColourPuck\Compressed\UnityConfig.jsgz" />
+    <Content Include="Content\Builds\ColourPuck\Release\ColourPuck.data" />
+    <Content Include="Content\Builds\ColourPuck\Release\ColourPuck.html.mem" />
+    <Content Include="Content\Builds\ColourPuck\TemplateData\Thumbs.db" />
+    <Content Include="Content\Builds\LD30\.htaccess" />
+    <Content Include="Content\Builds\LD30\Compressed\fileloader.jsgz" />
+    <Content Include="Content\Builds\LD30\Compressed\LD30.datagz" />
+    <Content Include="Content\Builds\LD30\Compressed\LD30.html.memgz" />
+    <Content Include="Content\Builds\LD30\Compressed\LD30.jsgz" />
+    <Content Include="Content\Builds\LD30\Compressed\UnityConfig.jsgz" />
+    <Content Include="Content\Builds\LD30\Compressed\WebGL.datagz" />
+    <Content Include="Content\Builds\LD30\Compressed\WebGL.html.memgz" />
+    <Content Include="Content\Builds\LD30\Compressed\WebGL.jsgz" />
+    <Content Include="Content\Builds\LD30\Release\LD30.data" />
+    <Content Include="Content\Builds\LD30\Release\LD30.html.mem" />
+    <Content Include="Content\Builds\LD30\Release\WebGL.data" />
+    <Content Include="Content\Builds\LD30\Release\WebGL.html.mem" />
+    <Content Include="Content\Builds\LD30\TemplateData\Thumbs.db" />
+    <Content Include="Content\Builds\LD31\.htaccess" />
+    <Content Include="Content\Builds\LD31\Compressed\fileloader.jsgz" />
+    <Content Include="Content\Builds\LD31\Compressed\LD31.datagz" />
+    <Content Include="Content\Builds\LD31\Compressed\LD31.html.memgz" />
+    <Content Include="Content\Builds\LD31\Compressed\LD31.jsgz" />
+    <Content Include="Content\Builds\LD31\Compressed\UnityConfig.jsgz" />
+    <Content Include="Content\Builds\LD31\Release\LD31.data" />
+    <Content Include="Content\Builds\LD31\Release\LD31.html.mem" />
+    <Content Include="Content\Builds\LD31\TemplateData\Thumbs.db" />
+    <None Include="Properties\PublishProfiles\badartifacts.com - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -268,7 +416,9 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -293,7 +443,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
-    <None Include="Project_Readme.html" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
